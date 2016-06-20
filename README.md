@@ -43,9 +43,8 @@ Once installed, activate 'WP API V2 Recipe Category Images' from WordPress plugi
 This plugin works straight out of the box.
 
 
-Filters
+Endpoint
 ====
-| Endpoint  |
 |-----------|
 | /wp-json/wp/v2/recipe_category/
 

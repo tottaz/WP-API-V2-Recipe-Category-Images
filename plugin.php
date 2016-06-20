@@ -5,7 +5,7 @@
  * Description: Adds Recipe Category Images to WP REST API V2 JSON output.
  * Version: 0.1
  * Author: Torbjorn Zetterlund
- * Plugin URI: https://github.com/Vatsov/wp-rest-api-v2-category-image/
+ * Plugin URI: https://github.com/tottaz/WP-API-V2-Recipe-Category-Images
  */
 
 if ( !function_exists( 'is_plugin_active' ) ) {
